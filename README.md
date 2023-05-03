@@ -1,4 +1,4 @@
-# Project Title - Module 11 Challenge - Mars Analysis
+# Project Title - Web Scraping and Mars Data Analysis
 
 ## Project Description
 
@@ -53,4 +53,16 @@ Web scraping and analysis of a Mars weather data site.
         Consider how many days elapse on Earth in the time that Mars circles the Sun once.
         Visually estimate the result by plotting the daily minimum temperature.
 
- 6. Export the DataFrame to a CSV file.       
+ 6. Export the DataFrame to a CSV file.  
+
+### Dependencies
+
+* Python
+* Pandas
+* Splinter
+* Beautiful Soup
+* Json
+* Matplotlib
+
+### References
+The Mars News websiteLinks to an external site. is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News website in November 2022. Images are used according to the JPL Image Use Policy, courtesy NASA/JPL-Caltech.
